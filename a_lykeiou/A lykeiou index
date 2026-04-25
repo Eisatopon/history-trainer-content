@@ -1,0 +1,47 @@
+{
+  "subject_id": "history",
+  "subject_title": "Ιστορία",
+  "grade_id": "a_lykeiou",
+  "grade_title": "Α' Λυκείου",
+  "books": [
+    {
+      "id": "mihalakis",
+      "folder": "mihalakhs",
+      "title": "Μιχαλάκης - Μπουργάνης",
+      "units": [
+        { "id": "enotita_1m", "title": "Α' - Ο Χώρος, ο Χρόνος και οι Έννοιες", "file": "enotita_1m.json" },
+        { "id": "enotita_2m", "title": "Β' - Η Ελληνική Πόλις", "file": "enotita_2m.json" },
+        { "id": "enotita_3m", "title": "Γ' - Η Αθηναϊκή Δημοκρατία", "file": "enotita_3m.json" },
+        { "id": "enotita_4m", "title": "Δ' - Η Βασιλεία και οι Πολυεθνικές Αυτοκρατορίες", "file": "enotita_4m.json" },
+        { "id": "enotita_5m", "title": "Ε' - Τα Ελληνιστικά Κράτη", "file": "enotita_5m.json" },
+        { "id": "enotita_6m", "title": "ΣΤ' - Η Res Publica και η Ρωμαϊκή Αυτοκρατορία", "file": "enotita_6m.json" },
+        { "id": "enotita_7m", "title": "Ζ' - Η Βυζαντινή Αυτοκρατορία", "file": "enotita_7m.json" },
+        { "id": "enotita_8m", "title": "Η' - Το Βυζαντινό Πολίτευμα", "file": "enotita_8m.json" },
+        { "id": "enotita_9m", "title": "Θ' - Μεσαιωνικά Ευρωπαϊκά Κράτη", "file": "enotita_9m.json" },
+        { "id": "enotita_10m", "title": "Ι' - Μορφές Κρατικής Οργάνωσης στους Νεότερους Χρόνους", "file": "enotita_10m.json" },
+        { "id": "enotita_11m", "title": "ΙΑ' - Η Ανάπτυξη των Εθνικών Κρατών", "file": "enotita_11m.json" },
+        { "id": "enotita_12m", "title": "ΙΒ' - Σύγχρονα Ιδεολογικά Ρεύματα", "file": "enotita_12m.json" }
+      ]
+    },
+    {
+      "id": "thodis",
+      "folder": "thodis",
+      "title": "Θώδης - Κλάψης - Μαντά - Μήτση - Τσατσούλης",
+      "units": [
+        { "id": "enotita_1th", "title": "Ενότητα 1 - Ο Χώρος, ο Χρόνος και οι Έννοιες", "file": "enotita_1th.json" },
+        { "id": "enotita_2th", "title": "Ενότητα 2 - Η Ελληνική Πόλις", "file": "enotita_2th.json" },
+        { "id": "enotita_3th", "title": "Ενότητα 3 - Η Αθηναϊκή Δημοκρατία", "file": "enotita_3th.json" },
+        { "id": "enotita_4th", "title": "Ενότητα 4 - Η Βασιλεία και οι Πολυεθνικές Αυτοκρατορίες", "file": "enotita_4th.json" },
+        { "id": "enotita_5th", "title": "Ενότητα 5 - Τα Ελληνιστικά Κράτη", "file": "enotita_5th.json" },
+        { "id": "enotita_6th", "title": "Ενότητα 6 - Η Res Publica και η Ρωμαϊκή Αυτοκρατορία", "file": "enotita_6th.json" },
+        { "id": "enotita_7th", "title": "Ενότητα 7 - Η Βυζαντινή Αυτοκρατορία", "file": "enotita_7th.json" },
+        { "id": "enotita_8th", "title": "Ενότητα 8 - Το Βυζαντινό Πολίτευμα", "file": "enotita_8th.json" },
+        { "id": "enotita_9th", "title": "Ενότητα 9 - Μεσαιωνικά Ευρωπαϊκά Κράτη", "file": "enotita_9th.json" },
+        { "id": "enotita_10th", "title": "Ενότητα 10 - Ευρωπαϊκά Κράτη Μέσου και Ύστερου Μεσαίωνα", "file": "enotita_10th.json" },
+        { "id": "enotita_11th", "title": "Ενότητα 11 - Αυτοκρατορίες: Η Οθωμανική Αυτοκρατορία", "file": "enotita_11th.json" },
+        { "id": "enotita_12th", "title": "Ενότητα 12 - Η Ανάπτυξη των Εθνικών Κρατών", "file": "enotita_12th.json" },
+        { "id": "enotita_13th", "title": "Ενότητα 13 - Σύγχρονα Ιδεολογικά Ρεύματα", "file": "enotita_13th.json" }
+      ]
+    }
+  ]
+}
